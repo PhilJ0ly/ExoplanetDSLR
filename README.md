@@ -1,7 +1,7 @@
 # ExoplanetDSLR
 Observation of an exoplanet transit using a DSLR camera.
 
-##Abstract
+## Abstract
 The advent of the new James Webb Telescope put a spotlight on astronomy and the search for new
 exoplanets. Beyond the JWT, a lot can be done without such expensive equipment, opening the field to
 a broader number of potential observers. Inexpensive consumer-grade DSLR cameras have already been
